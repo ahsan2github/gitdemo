@@ -1,2 +1,2 @@
 # gitdemo
- A repository to illustrate git use
+ A repository to show git usage
